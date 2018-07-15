@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![An image of teslatickles](https://static.tvtropes.org/pmwiki/pub/images/008360e1af837323c19843cf8e999246.jpg)
