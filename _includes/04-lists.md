@@ -4,19 +4,19 @@
       - Playing music with others
       - Making tunes on my MacBook
       - Sonic Youth, Suuns, Harry Nilsson
-### 2. Programming/Inventing/Hardware
+### 1. Programming/Inventing/Hardware
       - Making electronic projects using attinys and other micro-controllers
       - Eagle software
       - Fusion 360 software
       - soldering
-### 3. Languages/technologies (experience)
+### 1. Languages/technologies (experience)
       - Javascript
       - Python
       - HTML
       - CSS
       - Node (nodejs)
       - Markdown
-### 4. Favorite books
+### 1. Favorite books
       - Slaughterhouse-Five (Kurt Vonnegut)
       - Speaker for the Dead (Orson Scott Card)
       - Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
